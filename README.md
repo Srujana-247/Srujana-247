@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Srujana 
 
-<!--
-**Srujana-247/Srujana-247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I'm a cybersecurity learner building practical skills in security fundamentals, Linux, Python, SQL, and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Learning Focus
+- 🔐 Cybersecurity fundamentals and security risk assessment
+- 🐧 Linux command-line operations and permissions
+- 🐍 Python programming for security automation
+- 🗄️ SQL fundamentals and security-related data analysis
+- 🌐 Networking fundamentals
+
+### 🛠️ Projects
+
+**1. Botium Toys Security Risk Assessment**
+- Reviewed security controls and compliance considerations.
+- Created a beginner-level security assessment checklist.
+- Documented risks and recommendations.
+
+[View Project](https://github.com/Srujana-247/Botium-toys-security-risk-assessment)
+
+**2. Linux Challenges**
+- Practicing command-line skills and Linux concepts.
+- Working toward documenting practical labs and lessons learned.
+
+[View Repository](https://github.com/Srujana-247/Linux-Challenges)
+
+### 📚 Learning
+- Google Cybersecurity Certificate coursework
+- Hands-on Linux and command-line practice
+- Python programming fundamentals
+
+### 🚀 Goals
+- Build practical cybersecurity projects.
+- Improve scripting and log-analysis skills.
+- Develop a portfolio for cybersecurity internships and entry-level opportunities.
+
+I'm continuously learning, practicing, and documenting my progress.
