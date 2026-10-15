@@ -20,11 +20,6 @@ I'm a cybersecurity learner building practical skills in security fundamentals, 
 
 [View Project](https://github.com/Srujana-247/Botium-toys-security-risk-assessment)
 
-**2. Linux Challenges**
-- Practicing command-line skills and Linux concepts.
-- Working toward documenting practical labs and lessons learned.
-
-[View Repository](https://github.com/Srujana-247/Linux-Challenges)
 
 ###  Learning
 - Google Cybersecurity Certificate coursework
