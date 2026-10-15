@@ -4,14 +4,14 @@
 
 I'm a cybersecurity learner building practical skills in security fundamentals, Linux, Python, SQL, and networking.
 
-### 🎯 Current Learning Focus
-- 🔐 Cybersecurity fundamentals and security risk assessment
-- 🐧 Linux command-line operations and permissions
-- 🐍 Python programming for security automation
-- 🗄️ SQL fundamentals and security-related data analysis
-- 🌐 Networking fundamentals
+###  Current Learning Focus
+-  Cybersecurity fundamentals and security risk assessment
+-  Linux command-line operations and permissions
+-  Python programming for security automation
+-  SQL fundamentals and security-related data analysis
+-  Networking fundamentals
 
-### 🛠️ Projects
+###  Projects
 
 **1. Botium Toys Security Risk Assessment**
 - Reviewed security controls and compliance considerations.
@@ -26,12 +26,12 @@ I'm a cybersecurity learner building practical skills in security fundamentals, 
 
 [View Repository](https://github.com/Srujana-247/Linux-Challenges)
 
-### 📚 Learning
+###  Learning
 - Google Cybersecurity Certificate coursework
 - Hands-on Linux and command-line practice
 - Python programming fundamentals
 
-### 🚀 Goals
+### Goals
 - Build practical cybersecurity projects.
 - Improve scripting and log-analysis skills.
 - Develop a portfolio for cybersecurity internships and entry-level opportunities.
